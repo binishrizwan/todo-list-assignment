@@ -20,12 +20,7 @@
     text-align: center;
 }
 
-/* Title styling */
-h1 {
-    color: #1460b6;
-    font-size: 24px;
-    margin-bottom: 20px;
-}
+
 
 /* Input field styling */
 #taskInput {
@@ -42,7 +37,7 @@ h1 {
     border-color: #4a90e2;
 }
 
-/* Button styling */
+
 button {
     padding: 10px 20px;
     background-color: #05203f;
@@ -58,7 +53,7 @@ button:hover {
     background-color: #357ab8;
 }
 
-/* Task list styling */
+
 ul {
     list-style-type: none;
     padding: 0;
